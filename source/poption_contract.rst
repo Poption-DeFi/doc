@@ -4,17 +4,17 @@ poption合约概述
 ================
 在了解一些poption的应用场景之后我们可以回过头在来更进一步了解一下poption合约。
 
-Brief Understanding with Example
+Brief Understanding with Examples
 ----------------------------------
 To get a Poption with some financial function. We usually take two steps.
 
-1. Mint current asset to all possible returns in the future.
-2. Swap some possible returns for other possible returns with the other.
+1. Lock settlement currency to mint Poption with a constant payoff in the future.
+2. Swap some parts of the payoff for other parts with another trader (usually a market maker).
 
 .. figure:: ../images/ab_bet.png
     :align: center
 
-    Alice and Bob bet with the Ether's price. (Poption only support continuous payoff function currently.)
+    Alice and Bob bet on the Ether's price. (Poption only support continuous payoff function currently.)
 
 .. figure:: ../images/ab_long.png
     :align: center
