@@ -6,7 +6,7 @@ poption合约概述
 
 Brief Understanding with Examples
 ----------------------------------
-To get a Poption with some financial function. We usually take two steps.
+To get a Poption with some financial functions. We usually take two steps.
 
 1. Lock settlement currency to mint Poption with a constant payoff in the future.
 2. Swap some parts of the payoff for other parts with another trader (usually a market maker).

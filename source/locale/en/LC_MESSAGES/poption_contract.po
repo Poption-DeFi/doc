@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-28 09:13+0800\n"
+"POT-Creation-Date: 2022-07-28 10:30+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,7 +32,7 @@ msgid "Brief Understanding with Examples"
 msgstr ""
 
 #: ../../source/poption_contract.rst:9
-msgid "To get a Poption with some financial function. We usually take two steps."
+msgid "To get a Poption with some financial functions. We usually take two steps."
 msgstr ""
 
 #: ../../source/poption_contract.rst:11
@@ -353,5 +353,11 @@ msgstr ""
 #~ "Swap some parts of the payoff for"
 #~ " other parts with the other traders"
 #~ " (usually market makers)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To get a Poption with some "
+#~ "financial function. We usually take two"
+#~ " steps."
 #~ msgstr ""
 
