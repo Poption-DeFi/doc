@@ -48,7 +48,7 @@ msgid ""
 ":math:`\\mathbf{a}` 是流动性池中收益令牌的结余向量："
 msgstr ""
 "The poption automated market maker uses the constant function market "
-"maker algorithm. The trade function is defined as follows, where "
+"maker algorithm. The trade function is a **cross entropy** defined as follows, where "
 ":math:`\\mathbf{w}` is the weight vector and :math:`\\mathbf{a}` is the "
 "balance vector of the payoff tokens in the liquidity pool."
 
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../source/liquidity_pool.rst:15
 msgid "它等价于几何平均数交易函数："
-msgstr "It is equivalent to the geometric mean trade function:"
+msgstr "It is equivalent to the **geometric mean** trade function:"
 
 #: ../../source/liquidity_pool.rst:17
 msgid ""
@@ -181,8 +181,8 @@ msgstr ""
 "market. A poption market maker will use information from both the spot "
 "market and the derivatives market to avoid being arbitrated. The poption "
 "market maker uses the spot market price as a free source of information,"
-"  and integrate the information to the price of payoff tokens via Black-"
-"Scholes model and auto market maker algorithm. The market maker also "
+"  and integrate the information to the price of payoff tokens via **Black-"
+"Scholes model** and **constant function market maker algorithm**. The market maker also "
 "preserves the information provided by the poption trader through the "
 "balances of liquidity pool. "
 

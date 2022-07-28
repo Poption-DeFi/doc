@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-27 17:31+0800\n"
+"POT-Creation-Date: 2022-07-28 09:13+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,7 +26,7 @@ msgid "在了解一些poption的应用场景之后我们可以回过头在来更
 msgstr ""
 
 #: ../../source/poption_contract.rst:8
-msgid "Brief Understanding with Example"
+msgid "Brief Understanding with Examples"
 msgstr ""
 
 #: ../../source/poption_contract.rst:9
@@ -34,17 +34,21 @@ msgid "To get a Poption with some financial function. We usually take two steps.
 msgstr ""
 
 #: ../../source/poption_contract.rst:11
-msgid "Mint current asset to all possible returns in the future."
+msgid ""
+"Lock settlement currency to mint Poption with a constant payoff in the "
+"future."
 msgstr ""
 
 #: ../../source/poption_contract.rst:12
-msgid "Swap some possible returns for other possible returns with the other."
+msgid ""
+"Swap some parts of the payoff for other parts with another trader "
+"(usually a market maker)."
 msgstr ""
 
 #: ../../source/poption_contract.rst:17
 msgid ""
-"Alice and Bob bet with the Ether's price. (Poption only support "
-"continuous payoff function currently.)"
+"Alice and Bob bet on the Ether's price. (Poption only support continuous "
+"payoff function currently.)"
 msgstr ""
 
 #: ../../source/poption_contract.rst:22
@@ -254,5 +258,32 @@ msgstr ""
 #~ "Alice and Bob bet with the Ether's"
 #~ " price. (Illustrate only, Poption only "
 #~ "support continuous payoff function.)"
+#~ msgstr ""
+
+#~ msgid "Mint current asset to all possible returns in the future."
+#~ msgstr ""
+
+#~ msgid "Swap some possible returns for other possible returns with the other."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Alice and Bob bet with the Ether's"
+#~ " price. (Poption only support continuous"
+#~ " payoff function currently.)"
+#~ msgstr ""
+
+#~ msgid "Brief Understanding with Example"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Lock settlement currency to mint Poption"
+#~ " with a constant return in the "
+#~ "future."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Swap some parts of the payoff for"
+#~ " other parts with the other traders"
+#~ " (usually market makers)."
 #~ msgstr ""
 

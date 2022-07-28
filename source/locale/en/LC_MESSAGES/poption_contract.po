@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-27 17:31+0800\n"
+"POT-Creation-Date: 2022-07-28 09:13+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "back and learn more about poption contracts."
 
 #: ../../source/poption_contract.rst:8
-msgid "Brief Understanding with Example"
+msgid "Brief Understanding with Examples"
 msgstr ""
 
 #: ../../source/poption_contract.rst:9
@@ -36,17 +36,21 @@ msgid "To get a Poption with some financial function. We usually take two steps.
 msgstr ""
 
 #: ../../source/poption_contract.rst:11
-msgid "Mint current asset to all possible returns in the future."
+msgid ""
+"Lock settlement currency to mint Poption with a constant payoff in the "
+"future."
 msgstr ""
 
 #: ../../source/poption_contract.rst:12
-msgid "Swap some possible returns for other possible returns with the other."
+msgid ""
+"Swap some parts of the payoff for other parts with another trader "
+"(usually a market maker)."
 msgstr ""
 
 #: ../../source/poption_contract.rst:17
 msgid ""
-"Alice and Bob bet with the Ether's price. (Poption only support "
-"continuous payoff function currently.)"
+"Alice and Bob bet on the Ether's price. (Poption only support continuous "
+"payoff function currently.)"
 msgstr ""
 
 #: ../../source/poption_contract.rst:22
@@ -81,14 +85,14 @@ msgstr ""
 "The customizable payoff function plays a key role in poption contract. "
 "Its input is the settlement price, and its output is the amount of "
 "settlement currencies the holder should receive after the poption's "
-"expiration. All the payoff functions in poption will be split into 2 "
+"expiration. All the payoff functions in poption will be splitted into 2 "
 "trapezoids and N-2 triangles."
 
 #: ../../source/poption_contract.rst:34
 msgid "比如通过一个单位的结算货币铸造的常数收益会被切分成如下形状："
 msgstr ""
 "For example, the constant payoff function of the poption minted by a unit"
-" of the settlement currency would be split into the following shapes:"
+" of the settlement currency would be splitted into the following shapes:"
 
 #: ../../source/poption_contract.rst:39
 msgid "比如一个对冲无常损失的收益会被切分成如下形状："
@@ -322,5 +326,32 @@ msgstr ""
 #~ "Alice and Bob bet with the Ether's"
 #~ " price. (Illustrate only, Poption only "
 #~ "support continuous payoff function.)"
+#~ msgstr ""
+
+#~ msgid "Mint current asset to all possible returns in the future."
+#~ msgstr ""
+
+#~ msgid "Swap some possible returns for other possible returns with the other."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Alice and Bob bet with the Ether's"
+#~ " price. (Poption only support continuous"
+#~ " payoff function currently.)"
+#~ msgstr ""
+
+#~ msgid "Brief Understanding with Example"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Lock settlement currency to mint Poption"
+#~ " with a constant return in the "
+#~ "future."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Swap some parts of the payoff for"
+#~ " other parts with the other traders"
+#~ " (usually market makers)."
 #~ msgstr ""
 
