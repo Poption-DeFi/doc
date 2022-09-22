@@ -8,24 +8,25 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-09 21:20+0800\n"
+"POT-Creation-Date: 2022-09-19 11:15+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../source/poption_NFT.rst:2
 msgid "Poption NFT (Draft)"
 msgstr "Poption NFT (草稿)"
 
 #: ../../source/poption_NFT.rst:3
+#, fuzzy, python-format
 msgid ""
 "As we introduced earlier, the derivative market has the potential to "
 "bring new value to DeFi. Poption has a suitable architecture with smart "
-"contracts but it is not a very traditional derivative. To make people "
+"contracts, but it is not a very traditional derivative. To make people "
 "learn more about poption, we are going to issue NFTs to motivate users to"
 " explore our products (with test tokens or true money). These NFTs will "
 "be minted when users complete certain tasks in poption. They can be "
@@ -48,10 +49,11 @@ msgid "Rules"
 msgstr "规则"
 
 #: ../../source/poption_NFT.rst:9
+#, fuzzy
 msgid ""
 "After a user completes certain game tasks, he can mint NFT. The NFT will "
 "carry minting information and game task information. Including minter, "
-"create time, task name, task attributes, etc. All these information form "
+"create time, task name, task attributes, etc. All this information form "
 "the traits of the NFT."
 msgstr ""
 "用户完成某些任务后，可以铸造 NFT。NFT 将携带铸币信息和游戏任务信息。包括铸币者、创建时间、任务名称、任务属性等。所有这些信息构成了 NFT"
@@ -103,8 +105,9 @@ msgid ""
 msgstr "NFT 的公平价格与其铸币者有关，铸币者为人类的证据越多，NFT 的公平价格就越高。如果铸币者被证明是机器，那么 NFT 的公允价格会很低。"
 
 #: ../../source/poption_NFT.rst:20
+#, fuzzy
 msgid ""
-"The fair price of an NFT is related to its creation time. The less NFTs "
+"The fair price of an NFT is related to its creation time. The fewer NFTs "
 "are minted in a time period (e.g. a week), the higher the fair price of "
 "the NFTs. This generally equates to the earlier the NFT is minted, the "
 "higher its fair price."
@@ -113,9 +116,10 @@ msgstr ""
 "NFT，其公平价格就越高。"
 
 #: ../../source/poption_NFT.rst:21
+#, fuzzy
 msgid ""
-"The owners who are also the minter of the NFT shall lock the 1/10 of the "
-"fair price for a period of time (e.ge. 2 weeks) before the redeeming."
+"The owners who are also the creator of the NFT shall lock the 1/10 of the"
+" fair price for a period of time (e.g. 2 weeks) before the redeeming."
 msgstr "如果持有者同时也是 NFT 的铸造者，那么他应在赎回前锁定一段时间（例如 2 周）的公平价格的 1/10 的现金。"
 
 #: ../../source/poption_NFT.rst:22
@@ -125,6 +129,7 @@ msgid ""
 msgstr "公允价格计算算法及代码需在兑换前一个月开源并向社区公开。"
 
 #: ../../source/poption_NFT.rst:23
+#, python-format
 msgid ""
 "All NFT tokens can redeem 10% of all poption tokens. If the system works "
 "well, the fraction may increase to 20%."

@@ -30,7 +30,7 @@
 
    vista
    introduce_value_to_the_chain
-   poption_NFT
+   poption_NFT_2
 
 .. toctree::
    :caption: 参考文档
