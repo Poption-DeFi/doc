@@ -8,36 +8,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-09 18:08+0800\n"
+"POT-Creation-Date: 2022-11-24 10:28+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../source/index.rst:11
 msgid "操作指南"
 msgstr ""
 
-#: ../../source/index.rst:26
+#: ../../source/index.rst:27
+msgid "流动性提供投机"
+msgstr ""
+
+#: ../../source/index.rst:34
 msgid "社区建设"
 msgstr ""
 
-#: ../../source/index.rst:32
+#: ../../source/index.rst:42
 msgid "参考文档"
 msgstr ""
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "English"
 msgstr ""
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "中文"
 msgstr ""
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "语言"
 msgstr ""
 
@@ -52,33 +56,33 @@ msgid ""
 "能通过区块链为原本无法触及这些服务的用户提供对冲风险，投机交易等多种金融服务。作为一颗小小的种子为全世界金融的自由和平等带来一份力量。"
 msgstr ""
 
-#: ../../source/index.rst:49
+#: ../../source/index.rst:57
 msgid "白皮书"
 msgstr ""
 
-#: ../../source/index.rst:50
+#: ../../source/index.rst:58
 msgid ""
 "`Poption A General-Purpose Exotic Option Designed For DeFi "
 "<https://www.poption.exchange/whitepaper/Poption_Whitepaper.pdf>`_"
 msgstr ""
 
-#: ../../source/index.rst:53
+#: ../../source/index.rst:61
 msgid "相关链接"
 msgstr ""
 
-#: ../../source/index.rst:54
+#: ../../source/index.rst:62
 msgid "`网站 <https://www.poption.exchange/>`_"
 msgstr ""
 
-#: ../../source/index.rst:55
+#: ../../source/index.rst:63
 msgid "`推特 <https://twitter.com/hb_poption/>`_"
 msgstr ""
 
-#: ../../source/index.rst:56
+#: ../../source/index.rst:64
 msgid "`Github <https://github.com/Poption-DeFi/>`_"
 msgstr ""
 
-#: ../../source/index.rst:57
+#: ../../source/index.rst:65
 msgid "`Discord <https://discord.gg/wGeWbmTMu5/>`_"
 msgstr ""
 

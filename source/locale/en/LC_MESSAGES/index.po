@@ -8,36 +8,40 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-09 18:08+0800\n"
+"POT-Creation-Date: 2022-11-24 10:28+0800\n"
 "PO-Revision-Date: 2022-05-11 14:34+0800\n"
 "Last-Translator: Hydrogen Bear<hydrogenbear@poption.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.3\n"
 
 #: ../../source/index.rst:11
 msgid "操作指南"
 msgstr "Guide"
 
-#: ../../source/index.rst:26
+#: ../../source/index.rst:27
+msgid "流动性提供投机"
+msgstr "Speculating on Liquidity Providing"
+
+#: ../../source/index.rst:34
 msgid "社区建设"
 msgstr "DAO"
 
-#: ../../source/index.rst:32
+#: ../../source/index.rst:42
 msgid "参考文档"
 msgstr "Reference"
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "English"
 msgstr ""
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "中文"
 msgstr ""
 
-#: ../../source/index.rst:40
+#: ../../source/index.rst:48
 msgid "语言"
 msgstr "Language"
 
@@ -58,33 +62,33 @@ msgstr ""
 "speculation, etc. Like a small spark, it will bring more freedom and "
 "equality in finance to the world."
 
-#: ../../source/index.rst:49
+#: ../../source/index.rst:57
 msgid "白皮书"
 msgstr "White Paper"
 
-#: ../../source/index.rst:50
+#: ../../source/index.rst:58
 msgid ""
 "`Poption A General-Purpose Exotic Option Designed For DeFi "
 "<https://www.poption.exchange/whitepaper/Poption_Whitepaper.pdf>`_"
 msgstr ""
 
-#: ../../source/index.rst:53
+#: ../../source/index.rst:61
 msgid "相关链接"
 msgstr "Links"
 
-#: ../../source/index.rst:54
+#: ../../source/index.rst:62
 msgid "`网站 <https://www.poption.exchange/>`_"
 msgstr "`Website <https://www.poption.exchange/>`_"
 
-#: ../../source/index.rst:55
+#: ../../source/index.rst:63
 msgid "`推特 <https://twitter.com/hb_poption/>`_"
 msgstr "`Twitter <https://twitter.com/hb_poption/>`_"
 
-#: ../../source/index.rst:56
+#: ../../source/index.rst:64
 msgid "`Github <https://github.com/Poption-DeFi/>`_"
 msgstr ""
 
-#: ../../source/index.rst:57
+#: ../../source/index.rst:65
 msgid "`Discord <https://discord.gg/wGeWbmTMu5/>`_"
 msgstr ""
 

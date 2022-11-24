@@ -25,6 +25,13 @@
    risks
 
 .. toctree::
+   :caption: 流动性提供投机
+   :maxdepth: 1
+
+   Liquidity_providing_from_farming_to_speculating
+
+
+.. toctree::
    :caption: 社区建设
    :maxdepth: 1
 
