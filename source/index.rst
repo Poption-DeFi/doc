@@ -29,7 +29,7 @@
    :maxdepth: 1
 
    Liquidity_providing_from_farming_to_speculating
-
+   compare_fee_of_different_rate
 
 .. toctree::
    :caption: 社区建设
