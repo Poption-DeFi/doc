@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: poption \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-28 17:12+0800\n"
+"POT-Creation-Date: 2022-11-28 17:14+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,8 +56,8 @@ msgstr ""
 
 #: ../../source/compare_fee_of_different_rate.rst:15
 msgid ""
-"The fee collected per unit of liquidity in each month this year. The "
-"labels of the lines is in format of \"$fee_rate $stable_coin\"."
+"The fee collected per unit of liquidity in each month this year (2022). "
+"The labels of the lines is in format of \"$fee_rate $stable_coin\"."
 msgstr ""
 
 #: ../../source/compare_fee_of_different_rate.rst:17
@@ -165,5 +165,12 @@ msgstr ""
 #~ "who usually provide a narrow range "
 #~ "of liquidity failed to take the "
 #~ "advantage of these two pools."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The fee collected per unit of "
+#~ "liquidity in each month this year. "
+#~ "The labels of the lines is in "
+#~ "format of \"$fee_rate $stable_coin\"."
 #~ msgstr ""
 

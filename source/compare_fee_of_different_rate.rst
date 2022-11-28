@@ -12,6 +12,6 @@ Here is the result:
     :align: center
     :width: 80 %
 
-    The fee collected per unit of liquidity in each month this year. The labels of the lines is in format of "$fee_rate $stable_coin".
+    The fee collected per unit of liquidity in each month this year (2022). The labels of the lines is in format of "$fee_rate $stable_coin".
 
 It seems the hypothesis is partially proved. No pool collects significantly low fees. But, there are still two pools that earn significantly high fees. The '0.05% USDT' pool and the '0.05% DAI' pool collect more fees than others. It may be caused by big MEV transactions like `this <https://etherscan.io/tx/0x5550809304222949d0795f82bbb5ac7d76209c0f54325dc2e02d6a4a4da7e26b>`_. These transactions create a long pin bar in the price chart and give high fees to liquidity providers with a wide active range. This may be the reason ordinary people who usually provide a narrow range of liquidity failed to take the advantage of these two pools.
