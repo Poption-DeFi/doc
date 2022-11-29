@@ -14,4 +14,18 @@ Here is the result:
 
     The fee collected per unit of liquidity in each month this year (2022). The labels of the lines is in format of "$fee_rate $stable_coin".
 
-It seems the hypothesis is partially proved. No pool collects significantly low fees. But, there are still two pools that earn significantly high fees. The '0.05% USDT' pool and the '0.05% DAI' pool collect more fees than others. It may be caused by big MEV transactions like `this <https://etherscan.io/tx/0x5550809304222949d0795f82bbb5ac7d76209c0f54325dc2e02d6a4a4da7e26b>`_. These transactions create a long pin bar in the price chart and give high fees to liquidity providers with a wide active range. This may be the reason ordinary people who usually provide a narrow range of liquidity failed to take the advantage of these two pools.
+It seems the hypothesis is partially proved. No pool collects significantly low fees. But, there are still two pools that earn significantly high fees. The '0.05% USDT' pool and the '0.05% DAI' pool collect more fees than others. It may be caused by big MEV transactions like `this <https://etherscan.io/tx/0x5550809304222949d0795f82bbb5ac7d76209c0f54325dc2e02d6a4a4da7e26b>`_. These transactions create a long pin bar in the price chart and give high fees to liquidity providers with a wide active range. This may be the reason ordinary people who usually provide a narrow range of liquidity failed to take the advantage of these two pools. I tried to verify this. I calculated the fees of these pools collected within a smaller active range.
+
+.. figure:: ../images/fee_collected_30.png
+    :align: center
+    :width: 80 %
+
+    The fees of the pools collected within range from 77% (1/1.3) to 130% of the price at the first day of a month in each month this year (2022).
+
+.. figure:: ../images/fee_collected_20.png
+    :align: center
+    :width: 80 %
+
+    The fees of the pools collected within range from 83% (1/1.2) to 120% of the price at the first day of a month in each month this year (2022).
+
+It seems that we shall provide more liquidity to "0.05% USDT-WETH" and this will help us earn more fees.
