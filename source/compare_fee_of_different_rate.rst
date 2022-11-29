@@ -28,4 +28,4 @@ It seems the hypothesis is partially proved. No pool collects significantly low 
 
     The fees of the pools collected within range from 83% (1/1.2) to 120% of the price at the first day of a month in each month this year (2022).
 
-It seems that we shall provide more liquidity to "0.05% USDT-WETH" and this will help us earn more fees.
+It seems that we shall provide more liquidity to "0.05% USDT-WETH" and this will always give us more fees.
